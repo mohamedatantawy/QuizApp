@@ -1,4 +1,4 @@
-# firstproject
+# QuizApp
 
 A new Flutter project.
 
